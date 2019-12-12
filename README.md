@@ -11,7 +11,7 @@
 
 ## インストール
 
-1. ruby<a href ="https://prog-8.com/docs/ruby-env-win"></a>
+1. <a href ="https://prog-8.com/docs/ruby-env-win">ruby</a>
   
   
   
