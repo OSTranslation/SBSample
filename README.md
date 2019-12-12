@@ -26,6 +26,9 @@
 
 　4.<a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
 
+## <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Botsのインテグレーションを追加する</a>
+
+※サンプルコードで"PingPong"しました
 
 ## サーバー構築
 
@@ -45,28 +48,8 @@
 
 　　2-3. <a href ="https://qiita.com/RYOSKATE/items/81b564b2ab281ec7f27d">ユーザー追加コマンド</a>
 
-　　2-4. <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby インストール</a>
+　　2-4. <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby bundle インストール</a>
 
-## <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Botsのインテグレーションを追加する</a>
-
-※サンプルコードで"PingPong"しました
-
-
-## テスト
-
-1. 使い方
-2. 使い方
-3. 使い方
-
-## デプロイ
-
-1. デプロイ
-2. デプロイ
-3. デプロイ
-
-## その他
-
-その他その他その他その他
-その他その他その他その他
-その他その他その他その他
-その他その他その他その他
+    2-5. <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h運用</a>
+    
+    
