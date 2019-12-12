@@ -1,4 +1,4 @@
-# SlackBot 翻訳 初心者がやってみました
+# SlackBot 翻訳
 ### 日本語を英語に翻訳してくれる
 
 ## 環境
@@ -11,18 +11,19 @@
 
 ## インストール
 
-### ruby
+1. ruby
   https://prog-8.com/docs/ruby-env-win
   
-### Visual Studio Code
+2. Visual Studio Code
   このエディタは使いやすいです
   https://azure.microsoft.com/ja-jp/products/visual-studio-code/
   
-### GitHub
+3. GitHub
   https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bf
   
-### Linux Ubuntu
- 
+4. Linux Ubuntu
+  http://namco.hatenablog.jp/entry/2018/04/28/063059
+  
 ## Bots のインテグレーションを追加する
 https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html
 ※サンプルコードで"PingPong"しました
