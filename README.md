@@ -15,7 +15,6 @@
   https://prog-8.com/docs/ruby-env-win
   
 2. Visual Studio Code
-  このエディタは使いやすいです
   https://azure.microsoft.com/ja-jp/products/visual-studio-code/
   
 3. GitHub
@@ -23,7 +22,10 @@
   
 4. Linux Ubuntu
   http://namco.hatenablog.jp/entry/2018/04/28/063059
-  
+4-1.IPアドレス固定
+  https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/
+4-2.vimrc設定
+  https://qiita.com/iwaseasahi/items/0b2da68269397906c14c
 ## Bots のインテグレーションを追加する
 https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html
 ※サンプルコードで"PingPong"しました
