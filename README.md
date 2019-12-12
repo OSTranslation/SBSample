@@ -41,10 +41,7 @@
 
 　　2-1.　<a href ="https://aquarius-train.hatenablog.com/entry/SSH%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%28Ubuntu18_04%29%E3%81%A8Windows%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86">SSHログイン</a>
 
-　　2-2. ログイン後アップデート
-
-　　　　　`# apt update && apt upgrade`
-
+　　2-2. ログイン後アップデート　`# apt update && apt upgrade`
 
 　　2-3. <a href ="https://qiita.com/RYOSKATE/items/81b564b2ab281ec7f27d">ユーザー追加コマンド</a>
 
