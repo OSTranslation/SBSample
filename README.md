@@ -11,41 +11,26 @@
 
 ## インストール
 
-1. <a href ="https://prog-8.com/docs/ruby-env-win">ruby</a>
-  
-  
-  
-2. Visual Studio Code
-  
-  https://azure.microsoft.com/ja-jp/products/visual-studio-code/
-  
-3. GitHub
+  1. <a href ="https://prog-8.com/docs/ruby-env-win">ruby</a>
 
-  https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bf
-  
-4. Linux Ubuntu
+  2.<a href ="https://azure.microsoft.com/ja-jp/products/visual-studio-code/">Visual Studio Code</a>
 
-  http://namco.hatenablog.jp/entry/2018/04/28/063059
-  
-## Bots のインテグレーションを追加する
-https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html
-※サンプルコードで"PingPong"しました
+  3. <a href ="https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bf">GitHub</a>
+
+  4.<a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
+ 
+## <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Bots のインテグレーションを追加する</a>
+
+  ※サンプルコードで"PingPong"しました
 
 ## サーバー構築
-1. VMware 仮想マシン作成
-
-  http://namco.hatenablog.jp/entry/2018/04/28/063059
+  1. <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
   
-1-1. IPアドレス固定
-  https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/
-  
-1-2.vimrc設定
+    1-1. <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス固定</a>
 
-  https://qiita.com/iwaseasahi/items/0b2da68269397906c14c
-  
-1-3.YAML書式
+    1-2. <a href ="https://qiita.com/iwaseasahi/items/0b2da68269397906c14c">vimrc設定</a>
 
-  https://magazine.rubyist.net/articles/0009/0009-YAML.html
+    1-3. <a href ="https://magazine.rubyist.net/articles/0009/0009-YAML.html">YAML書式</a>  
   
 2. Tera Term
 
