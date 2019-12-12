@@ -28,10 +28,11 @@
  
  
 ## サーバー構築
-  1. <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
+
+ 1. <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
   
     1-1. <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス固定</a>
-
+    
     1-2. <a href ="https://qiita.com/iwaseasahi/items/0b2da68269397906c14c">vimrc設定</a>
 
     1-3. <a href ="https://magazine.rubyist.net/articles/0009/0009-YAML.html">YAML書式</a>  
