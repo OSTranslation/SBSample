@@ -31,21 +31,24 @@
 
  1. <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
   
-    1-1. <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス固定</a>
+ 　1-1. <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス固定</a>
     
-    1-2. <a href ="https://qiita.com/iwaseasahi/items/0b2da68269397906c14c">vimrc設定</a>
+ 　1-2. <a href ="https://qiita.com/iwaseasahi/items/0b2da68269397906c14c">vimrc設定</a>
 
-    1-3. <a href ="https://magazine.rubyist.net/articles/0009/0009-YAML.html">YAML書式</a>  
+ 　1-3. <a href ="https://magazine.rubyist.net/articles/0009/0009-YAML.html">YAML書式</a>  
   
-  2. Tera Term
+ 2. Tera Term
   
-  　2-1.　<a href ="https://aquarius-train.hatenablog.com/entry/SSH%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%28Ubuntu18_04%29%E3%81%A8Windows%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86">SSHログイン</a>
+   2-1.　<a href ="https://aquarius-train.hatenablog.com/entry/SSH%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%28Ubuntu18_04%29%E3%81%A8Windows%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86">SSHログイン</a>
   
-  　2-2. ログイン後アップデート
+   2-2. ログイン後アップデート
+   
+   `# apt update && apt upgrade`
     
-      ~~~ # apt update && apt upgrade ~~~
-
-    2-3. Ubuntu
+   
+ 　2-3. <a href ="https://qiita.com/RYOSKATE/items/81b564b2ab281ec7f27d">ユーザー追加コマンド</a>
+   
+   2-4. <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby インストール</a>
 
   ## <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Botsのインテグレーションを追加する</a>
 
