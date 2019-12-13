@@ -1,6 +1,14 @@
 # SlackBot 翻訳
 ### 日本語を英語に翻訳してくれる
 
+## 目次
+
+- 環境
+- 作成背景
+- 進め方
+- インストール
+- Ruby 日本語を英語に翻訳してくれるのコーディング
+- サーバー構築
 
 ## 環境
 
@@ -10,11 +18,28 @@
 - gem 2.6.11
 - slack-ruby-bot 0.10.5
 
-
+## 作成背景
+ 
+ 1. 人数
+  1-1. 初心者2人
+  
+ 2. 期間
+  2-1. 5日間
+  
+ 3. 内容
+  
+   3-1. 作成方法 調査
+   
+   3-2. スケジュール 作成
+   
+   3-3. サーバー構築,Ruby開発構築 作業分担
+   
+   3-4. GitHub 公開
+  　
 ## インストール
 
 
-　1. <a href ="https://prog-8.com/docs/ruby-env-win">ruby</a>
+  1. <a href ="https://prog-8.com/docs/ruby-env-win">ruby</a>
 
 
 　2.<a href ="https://azure.microsoft.com/ja-jp/products/visual-studio-code/">Visual Studio Code</a>
