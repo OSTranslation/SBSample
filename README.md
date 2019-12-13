@@ -41,9 +41,7 @@
    
 ## 進め方
 
-以下の項目を1つずつ進めました。
-文字をクリックしてもらうと、参照したWebサイトへ飛びます。
-Webさちを参照した柄進めていけば
+以下の項目を1つずつ進めました。文字をクリックしてもらうと、参照したWebサイトへ飛びます。
 
 ## インストール
 
@@ -54,19 +52,14 @@ Webさちを参照した柄進めていけば
 　2.<a href ="https://azure.microsoft.com/ja-jp/products/visual-studio-code/">Visual Studio Code</a>
 
 
-　3. <a href ="https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bf">GitHub</a>
+　3.<a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
 
 
-　4.<a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
+## サンプルで動かす
 
+  1. <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Ruby で Slack の bot を作成してみた</a>
 
-## <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Botsのインテグレーションを追加</a>
-
-※サンプルコードで"PingPong"しました
-
-## Ruby 日本語を英語に翻訳してくれるのコーディング
-
-　1. 
+## Ruby 日本語→英語に翻訳 コード ※リポジトリー参照
 
 ## サーバー構築
 
@@ -89,6 +82,13 @@ Webさちを参照した柄進めていけば
    2-4. <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby bundle インストール</a>
 
    2-5. <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h運用</a>
+   
+   
+  3. GitHub　※GitHub使いたい方はぜひ
+  　3-1. <a href ="https://qiita.com/okumurakengo/items/848f7177765cf25fcde0">アカウント作成(個人)</a>
+    3-2. <a href ="http://pheromone.hatenablog.com/entry/2015/05/27/154048">アカウント作成(チーム)</a>
+    3-3. <a href ="https://techacademy.jp/magazine/6235">スタートアップ</a>
+    3-4. <a href ="https://cpp-learning.com/readme/">READ.me 書き方</a>
        
     
     
