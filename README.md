@@ -45,7 +45,7 @@
 ## インストール
 
 
-- <a href ="https://prog-8.com/docs/ruby-env-win">ruby</a>
+- <a href ="https://prog-8.com/docs/ruby-env-win">Ruby</a>
 
 
 - <a href ="https://azure.microsoft.com/ja-jp/products/visual-studio-code/">Visual Studio Code</a>
@@ -80,10 +80,10 @@
 
   -  <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby bundle インストール</a>
 
-  - <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h運用</a>
+  - <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h 運用</a>
 
    
-- GitHub
+- -GitHub-
 
   - <a href ="https://qiita.com/okumurakengo/items/848f7177765cf25fcde0">アカウント作成(個人)</a>
 
