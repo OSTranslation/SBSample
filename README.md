@@ -1,7 +1,4 @@
-# SlackBot 翻訳 #初心者2人 #5日間 #完成
-## 概要
-
-### 日本語を英語に翻訳してくれる
+# SlackBot 日本語→英語 翻訳 #初心者2人 #5日間 #完成
 
 ## 目次
 
@@ -42,19 +39,15 @@
    
 ## 進め方
 
-- 以下の項目を1つずつ進めました。文字をクリックしてもらうと、参照したWebサイトへ飛びます。
+- 以下の項目を1つずつ進める。文字をクリック→参照したWebサイトへ飛びます。
 
 ## インストール
 
-
 - <a href ="https://prog-8.com/docs/ruby-env-win">Ruby</a>
-
 
 - <a href ="https://azure.microsoft.com/ja-jp/products/visual-studio-code/">Visual Studio Code</a>
 
-
 - <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
-
 
 ## サンプルを動かそう
 
@@ -64,21 +57,21 @@
 
 ## サーバー構築
 
-  - <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
+  - <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン 作成</a>
 
-  - <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス固定</a>
+  - <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス 固定</a>
 
-  - <a href ="https://qiita.com/iwaseasahi/items/0b2da68269397906c14c">vimrc設定</a>
+  - <a href ="https://qiita.com/iwaseasahi/items/0b2da68269397906c14c">vimrc 設定</a>
 
-  - <a href ="https://magazine.rubyist.net/articles/0009/0009-YAML.html">YAML書式</a>  
+  - <a href ="https://magazine.rubyist.net/articles/0009/0009-YAML.html">YAML 書式</a>  
 
 - Tera Term
 
-  - <a href ="https://aquarius-train.hatenablog.com/entry/SSH%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%28Ubuntu18_04%29%E3%81%A8Windows%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86">SSHログイン</a>
+  - <a href ="https://aquarius-train.hatenablog.com/entry/SSH%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%28Ubuntu18_04%29%E3%81%A8Windows%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86">SSH ログイン</a>
 
   - ログイン後アップデート　`# apt update && apt upgrade`
 
-  - <a href ="https://qiita.com/RYOSKATE/items/81b564b2ab281ec7f27d">ユーザー追加コマンド</a>
+  - <a href ="https://qiita.com/RYOSKATE/items/81b564b2ab281ec7f27d">ユーザー 追加コマンド</a>
 
   -  <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby bundle インストール</a>
 
@@ -87,9 +80,9 @@
    
 - GitHub
 
-  - <a href ="https://qiita.com/okumurakengo/items/848f7177765cf25fcde0">アカウント作成(個人)</a>
+  - <a href ="https://qiita.com/okumurakengo/items/848f7177765cf25fcde0">アカウント 作成(個人)</a>
 
-  - <a href ="http://pheromone.hatenablog.com/entry/2015/05/27/154048">アカウント作成(チーム)</a>
+  - <a href ="http://pheromone.hatenablog.com/entry/2015/05/27/154048">アカウント 作成(チーム)</a>
 
   - <a href ="https://techacademy.jp/magazine/6235">スタートアップ</a>
 
