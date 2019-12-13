@@ -7,7 +7,7 @@
 - 環境
 - 進め方
 - インストール
-- 開発構築
+- 開発
 - サーバー構築
 
 ## 作成背景
@@ -34,7 +34,7 @@
 
 - Windows 10
 - Ubuntu 18.04.3
-- ruby 2.6.5
+- Ruby 2.6.5
 - gem 2.6.11
 - slack-ruby-bot 0.10.5 　
    
@@ -54,15 +54,15 @@
 - <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
 
 
-## サンプルで動かす
+## サンプルを動かそう
 
-- <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Ruby で Slack の bot を作成してみた</a>
+- <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Ruby Slackbot 作成</a>
 
-## Ruby 日本語→英語に翻訳 コード ※リポジトリー参照
+## 開発 ※コード→リポジトリー 参照
 
 ## サーバー構築
 
-- <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
+  - <a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">VMware 仮想マシン作成</a>
 
   - <a href ="https://www.yokoweb.net/2018/05/09/ubuntu18-network-fix-ip-address/">IPアドレス固定</a>
 
