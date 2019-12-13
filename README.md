@@ -93,5 +93,6 @@
 
   - <a href ="https://cpp-learning.com/readme/">READ.me 書き方</a>
 
-    
-    
+## まとめ
+
+- 初心者2人で調査しながら、5日間で完成しました。調査時間がほとんどでした。
