@@ -1,4 +1,6 @@
-# SlackBot 翻訳
+# SlackBot 翻訳 #初心者2人 #5日間 #完成
+## 概要
+
 ### 日本語を英語に翻訳してくれる
 
 ## 目次
@@ -83,7 +85,7 @@
   - <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h 運用</a>
 
    
-- -GitHub-
+- GitHub
 
   - <a href ="https://qiita.com/okumurakengo/items/848f7177765cf25fcde0">アカウント作成(個人)</a>
 
@@ -95,4 +97,4 @@
 
 ## まとめ
 
-- 初心者2人で調査しながら、5日間で完成しました。調査時間がほとんどでした。
+- 楽しかったです！初心者2人で調査しながら、5日間で完成しました。調査時間がほとんどでした。
