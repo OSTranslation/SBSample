@@ -75,7 +75,7 @@
 
   -  <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby bundle インストール</a>
 
-  - <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h 運用</a>
+  - <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h 運用</a>　`#nohup コマンド &`
 
    
 - GitHub
