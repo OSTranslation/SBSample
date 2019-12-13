@@ -53,7 +53,7 @@
 
 - <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Ruby Slackbot 作成</a>
 
-## 開発 ※コード→リポジトリー 参照
+## 開発 honyaku.rb※コード→リポジトリー 参照
 
 ## サーバー構築
 
