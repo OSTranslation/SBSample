@@ -74,16 +74,16 @@
 
   - <a href ="https://aquarius-train.hatenablog.com/entry/SSH%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%89%8B%E9%A0%86%28Ubuntu18_04%29%E3%81%A8Windows%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%A2%BA%E8%AA%8D%E6%89%8B%E9%A0%86">SSHログイン</a>
 
- - ログイン後アップデート　`# apt update && apt upgrade`
+  - ログイン後アップデート　`# apt update && apt upgrade`
 
   - <a href ="https://qiita.com/RYOSKATE/items/81b564b2ab281ec7f27d">ユーザー追加コマンド</a>
 
   -  <a href ="https://qiita.com/banjo_kazui/items/b7f51dee80962421d628">ruby bundle インストール</a>
 
   - <a href ="https://www.atmarkit.co.jp/ait/articles/1708/24/news022.html">サーバー24h運用</a>
+
    
-   
-- GitHub　※GitHub使いたい方はぜひ
+- GitHub
 
   - <a href ="https://qiita.com/okumurakengo/items/848f7177765cf25fcde0">アカウント作成(個人)</a>
 
