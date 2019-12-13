@@ -3,20 +3,12 @@
 
 ## 目次
 
-- 環境
 - 作成背景
+- 環境
 - 進め方
 - インストール
-- Ruby 日本語を英語に翻訳してくれるのコーディング
+- 開発構築
 - サーバー構築
-
-## 環境
-
-- Windows 10
-- Ubuntu 18.04.3
-- ruby 2.6.5
-- gem 2.6.11
-- slack-ruby-bot 0.10.5
 
 ## 作成背景
  
@@ -37,9 +29,22 @@
     3-3. サーバー構築,Ruby開発構築 作業分担
    
    
-   3-4. GitHub 公開
-  　
+    3-4. GitHub 公開
+    
+## 環境
+
+- Windows 10
+- Ubuntu 18.04.3
+- ruby 2.6.5
+- gem 2.6.11
+- slack-ruby-bot 0.10.5 　
    
+## 進め方
+
+以下の項目を1つずつ進めました。
+文字をクリックしてもらうと、参照したWebサイトへ飛びます。
+Webさちを参照した柄進めていけば
+
 ## インストール
 
 
@@ -54,13 +59,14 @@
 
 　4.<a href ="http://namco.hatenablog.jp/entry/2018/04/28/063059">Linux Ubuntu</a>
 
+
 ## <a href ="https://hawksnowlog.blogspot.com/2017/12/create-slack-bot-with-ruby.html">Botsのインテグレーションを追加</a>
 
 ※サンプルコードで"PingPong"しました
 
 ## Ruby 日本語を英語に翻訳してくれるのコーディング
 
-1. 
+　1. 
 
 ## サーバー構築
 
